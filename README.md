@@ -1,4 +1,7 @@
 # CrackSegmentation
+
+Author: Peddamallu Yeshwanth Reddy
+
 ## Abstract:
 This project focuses on crack segmentation, a critical task in structure
 investigation problems such as bridge inspection projects. The accuracy of the
