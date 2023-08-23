@@ -311,21 +311,20 @@ the segmented image, particularly in regions where the borders of the segments
 overlap.
 
 ## References:
-Shorten, Connor, and Taghi M. Khoshgoftaar. "A survey on image data augmentation for
-deep learning." Journal of big data 6.1 (2019): 1-48.
-He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the
-IEEE conference on computer vision and pattern recognition. 2016.
-O'Shea, Keiron, and Ryan Nash. "An introduction to convolutional neural networks."
-arXiv preprint arXiv:1511.08458 (2015).
-Choi, Wooram, and Young-Jin Cha. "SDDNet: Real-time crack segmentation." IEEE
-Transactions on Industrial Electronics 67.9 (2019): 8016-8025.
-Ohno, Kentaro, and Masayasu Ohtsu. "Crack classification in concrete based on
-acoustic emission." Construction and Building Materials 24.12 (2010): 2339-2346.
-Ali, Raza, et al. "Automatic pixel-level crack segmentation in images using fully
-convolutional neural network based on residual blocks and pixel local weights."
-Engineering Applications of Artificial Intelligence 104 (2021): 104391.
-Xiang, Chao, et al. "Crack detection algorithm for concrete structures based on
-super-resolution reconstruction and segmentation network." Automation in Construction
-140 (2022): 104346.
-Minaee, Shervin, et al. "Image segmentation using deep learning: A survey." IEEE
-transactions on pattern analysis and machine intelligence 44.7 (2021): 3523-3542.
+
+Shorten, Connor, and Taghi M. Khoshgoftaar. "A survey on image data augmentation for deep learning." Journal of big data 6.1 (2019): 1-48.
+
+He, Kaiming, et al. "Deep residual learning for image recognition." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.
+
+O'Shea, Keiron, and Ryan Nash. "An introduction to convolutional neural networks." arXiv preprint arXiv:1511.08458 (2015).
+
+Choi, Wooram, and Young-Jin Cha. "SDDNet: Real-time crack segmentation." IEEE Transactions on Industrial Electronics 67.9 (2019): 8016-8025.
+
+Ohno, Kentaro, and Masayasu Ohtsu. "Crack classification in concrete based on acoustic emission." Construction and Building Materials 24.12 (2010): 2339-2346.
+
+Ali, Raza, et al. "Automatic pixel-level crack segmentation in images using fully convolutional neural network based on residual blocks and pixel local weights."
+
+Engineering Applications of Artificial Intelligence 104 (2021): 104391. Xiang, Chao, et al. "Crack detection algorithm for concrete structures based on super-resolution reconstruction and segmentation network." Automation in Construction 140 (2022): 104346.
+
+Minaee, Shervin, et al. "Image segmentation using deep learning: A survey." IEEE transactions on pattern analysis and machine intelligence 44.7 (2021): 3523-3542.
+
