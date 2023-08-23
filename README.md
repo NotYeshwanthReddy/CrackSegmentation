@@ -194,6 +194,7 @@ on the image highlighted in red color.
 Sample Output 1:
 ![image](https://github.com/NotYeshwanthReddy/CrackSegmentation/assets/31570514/c4c13c7d-d8f3-4ad1-a992-d7b464cf4120)
 Sample Output 2:
+
 ![image](https://github.com/NotYeshwanthReddy/CrackSegmentation/assets/31570514/b243c004-ec88-46a1-87c3-56e30994c9ba)
 - Accuracy: 96.36395099116307 
 - Precision:  94.74967271089554 
